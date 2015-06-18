@@ -1,1 +1,1 @@
-A simple blog post app using MEAN stack (Mongo, Express, Angular and Node) 
+A simple news post app using MEAN stack (Mongo, Express, Angular and Node) 
